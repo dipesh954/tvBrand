@@ -2,39 +2,19 @@
   "posts": [
     { "id": 1,
      "country": "USA",
-     "year": "Post 1",
-     "month": "Post 1",
-     "title": "Post 1"
-     "name": "LG",
-     "price": 30000,
-     "totalSales": 2000000
+   
     },
     { "id": 2,
      "country": "UK",
-     "year": "Post 1",
-     "month": "Post 1",
-     "title": "Post 1"
-     "name": "LG",
-     "price": 30000,
-     "totalSales": 2000000
+
     },
      { "id": 3,
      "country": "India",
-     "year": "Post 1",
-     "month": "Post 1",
-     "title": "Post 1"
-     "name": "LG",
-     "price": 30000,
-     "totalSales": 2000000
+
     },
      { "id": ,
      "country": "Japan",
-     "year": "Post 1",
-     "month": "Post 1",
-     "title": "Post 1"
-     "name": "LG",
-     "price": 30000,
-     "totalSales": 2000000
+
     },
   ],
   "comments": [
